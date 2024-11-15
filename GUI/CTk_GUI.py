@@ -65,8 +65,6 @@ def toggle_mouse():
         vr_mouse = VRMouse()
 
 # Hover and click effect functions
-
-
 def on_keyboard_hover(event):
     if not keyboard_active:
         keyboard_button.configure(fg_color="#7070a0")
