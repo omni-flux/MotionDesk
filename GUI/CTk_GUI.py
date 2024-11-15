@@ -105,7 +105,7 @@ footer_label.pack(side="bottom", pady=(10, 20), padx=10)
 
 
 def open_github():
-    webbrowser.open("https://github.com/yourgithubprofile")
+    webbrowser.open("https://github.com/omni-flux/MotionDesk")
 
 
 info_button = CTkButton(master=frame, text="i", text_color="#a1a9af", font=("Arial Bold", 14), width=20, height=20,
