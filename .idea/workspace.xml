@@ -7,9 +7,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7771347a-6961-45e5-b5d2-8bb7b6a95124" name="Changes" comment=" commit 1">
+    <list default="true" id="7771347a-6961-45e5-b5d2-8bb7b6a95124" name="Changes" comment=" commit 2">
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/NETURAL.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/Rigth click.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/closing mouse.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/complete workflow.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/doubble click.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/drag n drop.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/keyboard actions.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/left click.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/moveing the cursor.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/scrolling up and down.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/stop keyboard.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/switch to keyboard.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/switch to mouse.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/gui/Screenshot 2024-11-15 103904.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/CTk_GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/CTk_GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/buffer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/gui.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +77,14 @@
       <recent name="C:\Users\ommka\PycharmProjects\MotionDesk" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ommka\PycharmProjects\MotionDesk\Assets\gui" />
+      <recent name="C:\Users\ommka\PycharmProjects\MotionDesk\Assets" />
+      <recent name="C:\Users\ommka\PycharmProjects\MotionDesk\Gesture Videos" />
       <recent name="C:\Users\ommka\PycharmProjects\MotionDesk\Prototypes" />
       <recent name="C:\Users\ommka\PycharmProjects\MotionDesk" />
-      <recent name="C:\Users\ommka\PycharmProjects\MotionDesk\GUI" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.CTk_GUI (1)">
+  <component name="RunManager" selected="Python.VRM">
     <configuration name="CTk_GUI (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MotionDesk" />
       <option name="ENV_FILES" value="" />
@@ -134,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="buffer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="VRM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MotionDesk" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/buffer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VRM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.VRM" />
+        <item itemvalue="Python.VRK" />
         <item itemvalue="Python.CTk_GUI (1)" />
         <item itemvalue="Python.pyqt" />
         <item itemvalue="Python.CTk_GUI" />
-        <item itemvalue="Python.buffer" />
-        <item itemvalue="Python.VRK" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +259,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731614927935</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" commit 1">
+      <option name="closed" value="true" />
+      <created>1731642427998</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731642427998</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" commit 2">
+      <option name="closed" value="true" />
+      <created>1731642470216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731642470216</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" commit 2">
+      <option name="closed" value="true" />
+      <created>1731642529249</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731642529249</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +311,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value=" commit 1" />
+    <MESSAGE value=" commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" commit 2" />
   </component>
 </project>
