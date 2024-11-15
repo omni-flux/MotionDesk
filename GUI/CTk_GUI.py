@@ -109,7 +109,7 @@ def open_github():
 
 
 info_button = CTkButton(master=frame, text="i", text_color="#a1a9af", font=("Arial Bold", 14), width=20, height=20,
-                            fg_color="#303030", corner_radius=40, command=open_github)
+                        fg_color="#303030", corner_radius=40, command=open_github)
 info_button.place(relx=0.89, rely=0.05)
 
 # Add a suggestion label at the bottom of the frame
