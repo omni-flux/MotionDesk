@@ -8,23 +8,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7771347a-6961-45e5-b5d2-8bb7b6a95124" name="Changes" comment=" commit 2">
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/NETURAL.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/Rigth click.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/closing mouse.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/complete workflow.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/doubble click.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/drag n drop.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/keyboard actions.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/left click.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/moveing the cursor.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/scrolling up and down.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/stop keyboard.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/switch to keyboard.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/switch to mouse.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/gui/Screenshot 2024-11-15 103904.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Gesture Videos/completework flow 2 .mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/buffer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/NETURAL.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/NETURAL.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/Rigth click.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/Rigth click.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/closing mouse.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/closing mouse.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/complete workflow.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/complete workflow.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/doubble click.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/doubble click.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/drag n drop.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/drag n drop.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/keyboard actions.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/keyboard actions.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/left click.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/left click.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/moveing the cursor.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/moveing the cursor.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/scrolling up and down.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/scrolling up and down.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/stop keyboard.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/stop keyboard.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/switch to keyboard.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/switch to keyboard.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gesture Videos/switch to mouse.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gesture Videos/switch to mouse.mp4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,14 +77,14 @@
       <recent name="C:\Users\ommka\PycharmProjects\MotionDesk" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ommka\PycharmProjects\MotionDesk\Assets\Gesture Videos" />
       <recent name="C:\Users\ommka\PycharmProjects\MotionDesk\Assets\gui" />
       <recent name="C:\Users\ommka\PycharmProjects\MotionDesk\Assets" />
       <recent name="C:\Users\ommka\PycharmProjects\MotionDesk\Gesture Videos" />
       <recent name="C:\Users\ommka\PycharmProjects\MotionDesk\Prototypes" />
-      <recent name="C:\Users\ommka\PycharmProjects\MotionDesk" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.VRM">
+  <component name="RunManager" selected="Python.CTk_GUI (1)">
     <configuration name="CTk_GUI (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MotionDesk" />
       <option name="ENV_FILES" value="" />
@@ -219,9 +219,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.VRM" />
-        <item itemvalue="Python.VRK" />
         <item itemvalue="Python.CTk_GUI (1)" />
+        <item itemvalue="Python.VRK" />
+        <item itemvalue="Python.VRM" />
         <item itemvalue="Python.pyqt" />
         <item itemvalue="Python.CTk_GUI" />
       </list>
