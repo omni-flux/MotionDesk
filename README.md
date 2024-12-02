@@ -17,11 +17,26 @@
 ## Getting started
 
 
+## GUI
+![Screenshot 2024-11-15 103904 - Copy](https://github.com/user-attachments/assets/07c47f26-ee97-4379-94c5-aad640260f9b)
 ## Gestures
 
 
 <details>
 <summary>Mouse</summary>
+
+  <details>
+  <summary>Neutral Gesture</summary>
+<a href="https://vimeo.com/user227881105" target="_blank"><img src="https://github.com/user-attachments/assets/6d60f93c-a281-42b4-bcb0-6b41c6a0e69a" alt="Palm" width="40" height="40"></a>
+  </details>
+
+  <details>
+  <summary>Moveing the corsor</summary>
+   <figure>
+    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
+    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
+  </figure>
+  </details>
 
   <details>
   <summary>Neutral Gesture</summary>
@@ -31,15 +46,53 @@
   </figure>
   </details>
 
+  <details>
+  <summary>Neutral Gesture</summary>
+   <figure>
+    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
+    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
+  </figure>
+  </details>
 
+  <details>
+  <summary>Neutral Gesture</summary>
+   <figure>
+    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
+    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
+  </figure>
+  </details>
 
+  <details>
+  <summary>Neutral Gesture</summary>
+   <figure>
+    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
+    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
+  </figure>
+  </details>
 
+  <details>
+  <summary>Neutral Gesture</summary>
+   <figure>
+    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
+    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
+  </figure>
+  </details>
 
+  <details>
+  <summary>Neutral Gesture</summary>
+   <figure>
+    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
+    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
+  </figure>
+  </details>
 
-
-
-
-
+  <details>
+  <summary>Neutral Gesture</summary>
+   <figure>
+    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
+    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
+  </figure>
+  </details>
 
 
 </details> 
