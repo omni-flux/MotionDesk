@@ -27,7 +27,7 @@
 
   <details>
   <summary>Neutral Gesture</summary>
-<a href="https://vimeo.com/user227881105" target="_blank"><img src="https://github.com/user-attachments/assets/6d60f93c-a281-42b4-bcb0-6b41c6a0e69a" alt="Palm" width="40" height="40"></a>
+<a href="https://player.vimeo.com/video/1035156057?h=e5c7da7e73" target="_blank"><img src="https://github.com/user-attachments/assets/6d60f93c-a281-42b4-bcb0-6b41c6a0e69a" alt="Palm" width="40" height="40"></a>
   </details>
 
   <details>
