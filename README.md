@@ -44,7 +44,7 @@ To launch the graphical user interface (GUI), execute the following:
 
 **Command:**
 ```bash
-python GUI/CTk_gui.py
+python GUI/CTk_GUI.py
 ```
 
 This will start the Control Panel interface for MotionDesk.
@@ -53,11 +53,11 @@ This will start the Control Panel interface for MotionDesk.
 To run specific modules as standalone applications:
 - **For the Keyboard Module**:
   ```bash
-  python vrk.py
+  python VRK.py
   ```
 - **For the Mouse Module**:
   ```bash
-  python vrm.py
+  python VRM.py
   ```
 
 ### Notes
@@ -82,4 +82,13 @@ For further details, refer to the repository's documentation or raise an issue i
 ## Contribution
 
 Contributions are encouraged! If you would like to enhance MotionDesk or report any issues, please submit pull requests or open issues on GitHub.
+
+## Author & Socials
+
+Created by Omkar Nayak. Connect with me:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/omni-flux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omkarnayak.work@gmail.com)
+
 
