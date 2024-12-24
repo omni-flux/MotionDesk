@@ -14,25 +14,70 @@
 
 - **MediaPipe Integration**: By leveraging MediaPipe's powerful hand tracking and gesture recognition models, MotionDesk accurately detects user movements and translates them into actionable commands on the desktop.
 
+## Getting started 
+
+Follow the steps below to set up and run MotionDesk on your local machine.
+
+### 1. Clone the Repository
+First, clone the repository to your local IDE or directory of choice.
+
+**Command:**
+```bash
+git clone https://github.com/omni-flux/MotionDesk.git
+cd MotionDesk
+```
+
+### 2. Install Dependencies
+Make sure you have Python installed on your system (preferably version 3.7 or higher). Then, use `pip` to install the required dependencies listed in `requirements.txt`.
+
+**Command:**
+```bash
+pip install -r requirements.txt
+```
+
+
+### 3. Run the Application
+You can run MotionDesk in different modes depending on your use case:
+
+#### **A. Run the GUI**
+To launch the graphical user interface (GUI), execute the following:
+
+**Command:**
+```bash
+python GUI/CTk_gui.py
+```
+
+This will start the Control Panel interface for MotionDesk.
+
+#### **B. Run Modules Individually**
+To run specific modules as standalone applications:
+- **For the Keyboard Module**:
+  ```bash
+  python vrk.py
+  ```
+- **For the Mouse Module**:
+  ```bash
+  python vrm.py
+  ```
+
+### Notes
+
+- Ensure that all required dependencies are installed before running any scripts.
+- If you encounter issues, verify that your Python version and the installed libraries are compatible.
+
+For further details, refer to the repository's documentation or raise an issue in the GitHub repository.
+
 
 ## GUI
 <img src="https://github.com/user-attachments/assets/07c47f26-ee97-4379-94c5-aad640260f9b" alt="Screenshot 2024-11-15 103904 - Copy" width="400" height="380">
 
-
 ## Gestures
-
 
 <h3>Watch this video with all gestures timestamped to know more about them:</h3>
 <p style="font-size: 2;">(Tip: Right-click the thumbnail and select "Open link in new tab" for convenience.)</p>
 <a href="https://youtu.be/use8VZmdueE?si=Vq4FUZrzS1wHzkCU">
   <img src="https://img.youtube.com/vi/use8VZmdueE/0.jpg" alt="YouTube Video" width="400">
 </a>
-
-
-
-
-
-
 
 ## Contribution
 
