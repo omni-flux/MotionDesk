@@ -14,90 +14,19 @@
 
 - **MediaPipe Integration**: By leveraging MediaPipe's powerful hand tracking and gesture recognition models, MotionDesk accurately detects user movements and translates them into actionable commands on the desktop.
 
-## Getting started
-
 
 ## GUI
-![Screenshot 2024-11-15 103904 - Copy](https://github.com/user-attachments/assets/07c47f26-ee97-4379-94c5-aad640260f9b)
+<img src="https://github.com/user-attachments/assets/07c47f26-ee97-4379-94c5-aad640260f9b" alt="Screenshot 2024-11-15 103904 - Copy" width="400" height="380">
+
+
 ## Gestures
 
 
-<details>
-<summary>Mouse</summary>
-
-  <details>
-  <summary>Neutral Gesture</summary>
-<a href="https://player.vimeo.com/video/1035156057?h=e5c7da7e73" target="_blank"><img src="https://github.com/user-attachments/assets/6d60f93c-a281-42b4-bcb0-6b41c6a0e69a" alt="Palm" width="40" height="40"></a>
-  </details>
-
-  <details>
-  <summary>Moveing the corsor</summary>
-   <figure>
-    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
-    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
-  </figure>
-  </details>
-
-  <details>
-  <summary>Neutral Gesture</summary>
-   <figure>
-    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
-    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
-  </figure>
-  </details>
-
-  <details>
-  <summary>Neutral Gesture</summary>
-   <figure>
-    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
-    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
-  </figure>
-  </details>
-
-  <details>
-  <summary>Neutral Gesture</summary>
-   <figure>
-    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
-    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
-  </figure>
-  </details>
-
-  <details>
-  <summary>Neutral Gesture</summary>
-   <figure>
-    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
-    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
-  </figure>
-  </details>
-
-  <details>
-  <summary>Neutral Gesture</summary>
-   <figure>
-    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
-    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
-  </figure>
-  </details>
-
-  <details>
-  <summary>Neutral Gesture</summary>
-   <figure>
-    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
-    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
-  </figure>
-  </details>
-
-  <details>
-  <summary>Neutral Gesture</summary>
-   <figure>
-    <img src="https://github.com/omni-flux/MotionDesk/blob/main/Assets/Gesture%20Videos/NETURAL.mp4" alt="Palm" width="711" height="400"><br>
-    <figcaption>Neutral Gesture. Used to halt/stop execution of the current gesture.</figcaption>
-  </figure>
-  </details>
-
-
-</details> 
-
-
+<h3>Watch this video with all gestures timestamped to know more about them:</h3>
+<p style="font-size: 2;">(Tip: Right-click the thumbnail and select "Open link in new tab" for convenience.)</p>
+<a href="https://youtu.be/use8VZmdueE?si=Vq4FUZrzS1wHzkCU">
+  <img src="https://img.youtube.com/vi/use8VZmdueE/0.jpg" alt="YouTube Video" width="400">
+</a>
 
 
 
